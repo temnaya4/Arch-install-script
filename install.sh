@@ -1,6 +1,6 @@
 ﻿#!/usr/bin/bash
 
-repo_path="https://raw.githubusercontent.com/alexdrozd64/archbtrfs/main"
+repo_path="https://raw.githubusercontent.com/temnaya4/Archscript/main"
 install_sh="archuefi1.sh"
 curl -LO $repo_path/$install_sh
 chmod +x $install_sh
